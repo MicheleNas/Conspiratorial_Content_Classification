@@ -1,7 +1,3 @@
-Ecco un possibile README per il tuo progetto su GitHub:
-
----
-
 # Descrizione del Progetto
 
 Questo progetto è stato sviluppato per partecipare alla challenge su Kaggle disponibile al seguente link: [ACTI Challenge](https://russogiuseppe.github.io/ACTI/). L'obiettivo principale è quello di affrontare e risolvere la sfida proposta utilizzando tecniche avanzate di analisi dati e machine learning.
